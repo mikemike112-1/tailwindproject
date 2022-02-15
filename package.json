@@ -1,0 +1,23 @@
+{
+  "name": "tailwindproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwind build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikemike112-1/tailwindproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.2.16"
+  },
+  "bugs": {
+    "url": "https://github.com/mikemike112-1/tailwindproject/issues"
+  },
+  "homepage": "https://github.com/mikemike112-1/tailwindproject#readme"
+}
